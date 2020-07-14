@@ -8,3 +8,6 @@ export interface RehydratedState {
 
 export { default as Rehydrated } from './rehydrated';
 export * from './offline-helpers';
+
+import NetInfo from './netinfo';
+export { NetInfo };

@@ -17,6 +17,7 @@
     "prepare": "tsc"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^4.7.0",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
